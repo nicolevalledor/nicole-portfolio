@@ -5,7 +5,6 @@
   }
   .about-containers {
     flex-wrap: wrap;
-    margin-bottom: 4rem;
   }
   #contact,
   #projects {
